@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "recompose-relay@0.3.1",
+        "scope": null,
+        "escapedName": "recompose-relay",
+        "name": "recompose-relay",
+        "rawSpec": "0.3.1",
+        "spec": "0.3.1",
+        "type": "version"
+      },
+      "/Users/user/Documents/truckdriverpower/client"
+    ]
+  ],
+  "_from": "recompose-relay@0.3.1",
+  "_id": "recompose-relay@0.3.1",
+  "_inCache": true,
+  "_location": "/recompose-relay",
+  "_nodeVersion": "5.12.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/recompose-relay-0.3.1.tgz_1476215800009_0.07037846394814551"
+  },
+  "_npmUser": {
+    "name": "acdlite",
+    "email": "acdlite@me.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "recompose-relay@0.3.1",
+    "scope": null,
+    "escapedName": "recompose-relay",
+    "name": "recompose-relay",
+    "rawSpec": "0.3.1",
+    "spec": "0.3.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/recompose-relay/-/recompose-relay-0.3.1.tgz",
+  "_shasum": "68c3cd48ba927567c4ecf20c72299d537198b06e",
+  "_shrinkwrap": null,
+  "_spec": "recompose-relay@0.3.1",
+  "_where": "/Users/user/Documents/truckdriverpower/client",
+  "author": {
+    "name": "Andrew Clark",
+    "email": "acdlite@me.com"
+  },
+  "bugs": {
+    "url": "https://github.com/acdlite/recompose/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  },
+  "description": "Recompose helpers for Relay.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "68c3cd48ba927567c4ecf20c72299d537198b06e",
+    "tarball": "https://registry.npmjs.org/recompose-relay/-/recompose-relay-0.3.1.tgz"
+  },
+  "homepage": "https://github.com/acdlite/recompose",
+  "keywords": [
+    "recompose",
+    "relay",
+    "react",
+    "higher-order",
+    "components",
+    "microcomponentization",
+    "toolkit",
+    "utilities",
+    "composition"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "acdlite",
+      "email": "acdlite@me.com"
+    }
+  ],
+  "name": "recompose-relay",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "recompose": "^0.17.0 || ^0.18.0 || ^0.19.0 || ^0.20.0",
+    "react": "^0.14.0 || ^15.0.0",
+    "react-relay": "^0.6.0 || ^0.7.0 || ^0.8.0 || ^0.9.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdlite/recompose.git"
+  },
+  "scripts": {
+    "update-schema": "node -r babel-core/register updateSchema.js"
+  },
+  "version": "0.3.1"
+}
